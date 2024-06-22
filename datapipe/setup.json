@@ -1,0 +1,10 @@
+[
+{
+'input_path':'xxxx',
+'schema':'XXXX',
+'table':'XXXX',
+'db_path_stg':'xxxx/db_conn_example.json',
+'db_path_ods':'xxxx/db_conn_example.json',
+'sql_path_ods':'xxxx.sql'
+}
+]
